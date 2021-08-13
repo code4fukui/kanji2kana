@@ -11,5 +11,9 @@ const appid = "xxx"; // https://labs.goo.ne.jp/apiusage/
 console.log(await kanji2kana("鯖江", appid));
 ```
 
+## relative
+
+- [kana2kanji](https://github.com/code4fukui/kana2kanji/)
+
 
 
