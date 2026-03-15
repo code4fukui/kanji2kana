@@ -2,12 +2,14 @@
 
 A JavaScript library that converts Japanese Kanji characters to Hiragana using the [gooLabs API](https://labs.goo.ne.jp/api/jp/hiragana-translation/).
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 ## Features
 - Convert Kanji to Hiragana
 - Supports Deno and ES module imports
 
 ## Requirements
-- An API key from the [gooLabs API](https://labs.goo.ne.jp/apiusage/) 
+- An API key from the [gooLabs API](https://labs.goo.ne.jp/apiusage/)
 
 ## Usage
 
