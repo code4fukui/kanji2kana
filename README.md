@@ -24,4 +24,4 @@ console.log(await kanji2kana("鯖江", appid));
 - [kana2kanji](https://github.com/code4fukui/kana2kanji/) - A library to convert Hiragana/Katakana to Kanji
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).
